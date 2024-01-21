@@ -1,12 +1,3 @@
 /.venv
-demJulia.png
-demMandelbrot.png
-mod something.png
+/ignore
 /images
-mode mod something.png
-output.png
-something copy.gif
-something.gif
-something.png
-something1.png
-main.py
